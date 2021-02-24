@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://user11name.github.io</id>
     <title>無限進步</title>
-    <updated>2021-02-24T10:13:29.147Z</updated>
+    <updated>2021-02-24T10:15:46.228Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://user11name.github.io"/>
     <link rel="self" href="https://user11name.github.io/atom.xml"/>
@@ -16,8 +16,7 @@
         <link href="https://user11name.github.io/post/typora-kuai-jie-jian/">
         </link>
         <updated>2021-02-24T10:10:45.000Z</updated>
-        <content type="html"><![CDATA[<figure data-type="image" tabindex="1"><img src="https://i.loli.net/2018/09/19/5ba188ab97113.png" alt="typora-icon" loading="lazy"></figure>
-<h2 id="一菜单栏">一：菜单栏</h2>
+        <content type="html"><![CDATA[<h2 id="一菜单栏">一：菜单栏</h2>
 <ul>
 <li>文件：alt+F</li>
 <li>编辑：alt+E</li>
@@ -144,8 +143,8 @@
 </ol>
 <p>待办列表:</p>
 <ul class="contains-task-list">
-<li class="task-list-item"><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-2632711"><label class="task-list-item-label" for="task-item-2632711"> Incomplete item</label></li>
-<li class="task-list-item"><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-8607056"><label class="task-list-item-label" for="task-item-8607056"> Complete item</label></li>
+<li class="task-list-item"><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-1399315"><label class="task-list-item-label" for="task-item-1399315"> Incomplete item</label></li>
+<li class="task-list-item"><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-2916607"><label class="task-list-item-label" for="task-item-2916607"> Complete item</label></li>
 </ul>
 <h2 id="链接">链接</h2>
 <p>A <a href="http://example.com">link</a>.文字链接</p>
