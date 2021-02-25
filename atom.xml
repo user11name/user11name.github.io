@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://user11name.github.io</id>
     <title>無限進步</title>
-    <updated>2021-02-25T08:00:35.873Z</updated>
+    <updated>2021-02-25T08:06:46.094Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://user11name.github.io"/>
     <link rel="self" href="https://user11name.github.io/atom.xml"/>
@@ -21,7 +21,7 @@
 观察“浪潮工作室”及其他富有设计感的公众号文章可以发现，正文内容每一句为一段，段与段之间有较大行距。<br>
 这样的排版确实可以便于阅读，减少读者的阅读负担，但是在电脑上看会不会显得太零碎？如何平衡桌面端与移动端的阅读体验？<br>
 目前来看，我个人写作和阅读博客内容都在桌面端，所以偏向于满足桌面端阅读习惯。具体一段大约多少字还有待实践分析。</p>
-<figure data-type="image" tabindex="1"><img src="https://gitee.com/bailiruofeng/image-hosting/raw/master/img/20210225155942.png" alt="image-20210225155939999" loading="lazy"></figure>
+<img src="https://gitee.com/bailiruofeng/image-hosting/raw/master/img/20210225155942.png" width = "200" height = "200"  />
 <h2 id="2-高亮显示">2. 高亮显示</h2>
 <p>和段落长度一样，高亮显示也对应着阅读节奏。<br>
 明亮的高亮显示不仅可以标注重点，还可以唤起读者的兴趣，在整篇文章中不时的高亮显示可以使阅读张驰有度，引人入胜。</p>
@@ -161,8 +161,8 @@
 </ol>
 <p>待办列表:</p>
 <ul class="contains-task-list">
-<li class="task-list-item"><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-9471418"><label class="task-list-item-label" for="task-item-9471418"> Incomplete item</label></li>
-<li class="task-list-item"><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-8734286"><label class="task-list-item-label" for="task-item-8734286"> Complete item</label></li>
+<li class="task-list-item"><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-9926061"><label class="task-list-item-label" for="task-item-9926061"> Incomplete item</label></li>
+<li class="task-list-item"><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-4829234"><label class="task-list-item-label" for="task-item-4829234"> Complete item</label></li>
 </ul>
 <h2 id="链接">链接</h2>
 <p>A <a href="http://example.com">link</a>.文字链接</p>
