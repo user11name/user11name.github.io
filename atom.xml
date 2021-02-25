@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://user11name.github.io</id>
     <title>無限進步</title>
-    <updated>2021-02-25T08:20:29.424Z</updated>
+    <updated>2021-02-25T13:53:13.015Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://user11name.github.io"/>
     <link rel="self" href="https://user11name.github.io/atom.xml"/>
@@ -11,23 +11,55 @@
     <icon>https://user11name.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, 無限進步</rights>
     <entry>
-        <title type="html"><![CDATA[博客写作规范]]></title>
+        <title type="html"><![CDATA[博客写作规范个人总结]]></title>
         <id>https://user11name.github.io/post/bo-ke-xie-zuo-gui-fan/</id>
         <link href="https://user11name.github.io/post/bo-ke-xie-zuo-gui-fan/">
         </link>
         <updated>2021-02-25T08:00:06.000Z</updated>
-        <content type="html"><![CDATA[<h1 id="博客写作规范">博客写作规范</h1>
-<h2 id="1-段落长度">1.  段落长度</h2>
-<p>段落长度对应的是阅读节奏，每段段落长度保持「参差不齐」，这更有助于提高阅读体验。</p>
-<p>观察“浪潮工作室”及其他富有设计感的公众号文章可以发现，正文内容每一句为一段，段与段之间有较大行距。</p>
-<p>这样的排版确实可以便于阅读，减少读者的阅读负担，但是在电脑上看会不会显得太零碎？如何平衡桌面端与移动端的阅读体验？</p>
-<p>目前来看，我个人写作和阅读博客内容都在桌面端，所以偏向于满足桌面端阅读习惯。具体一段大约多少字还有待实践分析。</p>
+        <content type="html"><![CDATA[<blockquote>
+<p>为了后续的文章排版统一，同时尽可能的美观、便于阅读，我参考了部分微信公众号排版方案，分析了一些富有设计感的公众号文章，总结了以下文章格式规范。</p>
+</blockquote>
+<blockquote>
+<p>这些规范并不一定准确，只是通过我的个人审美对比后的个人经验，如果后续有更好地方案会及时更新。</p>
+</blockquote>
+<h2 id="怎样算是一篇好博客">怎样算是一篇好博客</h2>
+<p>如今互联网快餐时代，想要读者静下心来读完一篇长文越来越难。</p>
+<p>一个是因为相同的内容可以通过视频、音频等方式更直观地表达出来，另一个是因为大多数读者或“观者”浮躁而没有耐心。</p>
+<p>在我看来，能让读者读完的文章，应该具有3个特点：<mark>有价值的内容、舒适的排版和引人入胜的阅读节奏。</mark></p>
+<h2 id="内容">内容</h2>
+<p>内容的重要意义自然不必多说。</p>
+<p>我目前写博客是为了督促自己学习、记录重要信息，说白了就是取悦自己。所以我现在文章的价值主要是对我自己而言的，我认为有价值的就记录下来，即便这些内容对别人来说可能是废话。</p>
+<h2 id="排版">排版</h2>
+<p>排版是为了给读者更好地阅读体验。</p>
+<blockquote>
+<p>米奥的<a href="https://mp.weixin.qq.com/s/4LX9QBgSP38hk6PC3i-70g">「一篇搞定微信公众号文字排版」</a>.详细地讲解了如何排版，值得一看，下面是我阅读后的干货总结。</p>
+</blockquote>
+<ol>
+<li>好的排版需要简约大方、样式简单明了、风格统一。</li>
+<li>颜色种类不要太多，不要用饱和度太高的颜色，我主题色选择#F9CF01，#E60F16，#0176C5。</li>
+<li>一般采用左对齐，首行不需要缩进。</li>
+</ol>
+<h2 id="节奏">节奏</h2>
+<p>节奏是笼统的概念，当文章内容和排版都达标了，文章节奏自然而然也就有了。</p>
+<ol>
+<li>
+<p>简单讲，文章节奏紧凑需要文章内容的逻辑清晰、段落长短交错、重点语句高亮点缀。</p>
+</li>
+<li>
+<p>段落间距最好一行以上，每一段可以一句话一段，适当增加次要内容部分(比如细致的分析)段落长度，但是尽量不要超过5行。</p>
+</li>
+<li>
+<p>合理运用<mark>高亮</mark>、引用等“提神”的格式。</p>
+</li>
+</ol>
+<p>例如如下「浪潮工作室」的文章</p>
 <div  align="center"> 
 <img src="https://gitee.com/bailiruofeng/image-hosting/raw/master/img/20210225155942.png" width = 50% height = 50%  />
 </div>
-<h2 id="2-高亮显示">2. 高亮显示</h2>
-<p>和段落长度一样，高亮显示也对应着阅读节奏。</p>
-<p>明亮的高亮显示不仅可以标注重点，还可以唤起读者的兴趣，在整篇文章中不时的高亮显示可以使阅读张驰有度，引人入胜。</p>
+<h2 id="杂项">杂项</h2>
+<ul>
+<li>为了在博客网站上更好地体现，尽量为每一篇文章添加一个封面。</li>
+</ul>
 ]]></content>
     </entry>
     <entry>
@@ -164,8 +196,8 @@
 </ol>
 <p>待办列表:</p>
 <ul class="contains-task-list">
-<li class="task-list-item"><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-7856775"><label class="task-list-item-label" for="task-item-7856775"> Incomplete item</label></li>
-<li class="task-list-item"><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-176314"><label class="task-list-item-label" for="task-item-176314"> Complete item</label></li>
+<li class="task-list-item"><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-3004243"><label class="task-list-item-label" for="task-item-3004243"> Incomplete item</label></li>
+<li class="task-list-item"><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-8805710"><label class="task-list-item-label" for="task-item-8805710"> Complete item</label></li>
 </ul>
 <h2 id="链接">链接</h2>
 <p>A <a href="http://example.com">link</a>.文字链接</p>
