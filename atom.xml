@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://user11name.github.io</id>
     <title>無限進步</title>
-    <updated>2021-02-25T08:11:19.228Z</updated>
+    <updated>2021-02-25T08:12:48.103Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://user11name.github.io"/>
     <link rel="self" href="https://user11name.github.io/atom.xml"/>
@@ -17,13 +17,17 @@
         </link>
         <updated>2021-02-25T08:00:06.000Z</updated>
         <content type="html"><![CDATA[<h1 id="博客写作规范">博客写作规范</h1>
-<h2 id="1-段落长度">1.  段落长度</h2>
+<ol>
+<li>段落长度</li>
+</ol>
 <p>段落长度对应的是阅读节奏，每段段落长度保持「参差不齐」，这更有助于提高阅读体验。</p>
 <p>观察“浪潮工作室”及其他富有设计感的公众号文章可以发现，正文内容每一句为一段，段与段之间有较大行距。</p>
 <p>这样的排版确实可以便于阅读，减少读者的阅读负担，但是在电脑上看会不会显得太零碎？如何平衡桌面端与移动端的阅读体验？</p>
 <p>目前来看，我个人写作和阅读博客内容都在桌面端，所以偏向于满足桌面端阅读习惯。具体一段大约多少字还有待实践分析。</p>
 <img src="https://gitee.com/bailiruofeng/image-hosting/raw/master/img/20210225155942.png" width = "200" height = "200"  />
-<h2 id="2-高亮显示">2. 高亮显示</h2>
+<ol start="2">
+<li>高亮显示</li>
+</ol>
 <p>和段落长度一样，高亮显示也对应着阅读节奏。</p>
 <p>明亮的高亮显示不仅可以标注重点，还可以唤起读者的兴趣，在整篇文章中不时的高亮显示可以使阅读张驰有度，引人入胜。</p>
 ]]></content>
@@ -162,8 +166,8 @@
 </ol>
 <p>待办列表:</p>
 <ul class="contains-task-list">
-<li class="task-list-item"><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-8295996"><label class="task-list-item-label" for="task-item-8295996"> Incomplete item</label></li>
-<li class="task-list-item"><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-3728987"><label class="task-list-item-label" for="task-item-3728987"> Complete item</label></li>
+<li class="task-list-item"><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-9130945"><label class="task-list-item-label" for="task-item-9130945"> Incomplete item</label></li>
+<li class="task-list-item"><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-1318414"><label class="task-list-item-label" for="task-item-1318414"> Complete item</label></li>
 </ul>
 <h2 id="链接">链接</h2>
 <p>A <a href="http://example.com">link</a>.文字链接</p>
