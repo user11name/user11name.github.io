@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://user11name.github.io</id>
     <title>無限進步</title>
-    <updated>2021-02-25T13:54:03.410Z</updated>
+    <updated>2021-02-25T14:10:06.601Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://user11name.github.io"/>
     <link rel="self" href="https://user11name.github.io/atom.xml"/>
@@ -36,9 +36,16 @@
 </blockquote>
 <ol>
 <li>好的排版需要简约大方、样式简单明了、风格统一。</li>
-<li>颜色种类不要太多，不要用饱和度太高的颜色，我主题色选择#F9CF01，#E60F16，#0176C5。</li>
-<li>一般采用左对齐，首行不需要缩进。</li>
+<li>颜色种类不要太多，不要用饱和度太高的颜色，我主题色选择</li>
 </ol>
+<table>
+<tr>
+<td bgcolor=#F9CF01><div align = center>#F9CF01</div></td>
+<td bgcolor=#E60F16><div align = center>#E60F16</div></td>
+<td bgcolor=#0176C5><div align = center>#0176C5</div></td>
+</tr>
+</table>
+3. 一般采用左对齐，首行不需要缩进。
 <h2 id="节奏">节奏</h2>
 <p>节奏是笼统的概念，当文章内容和排版都达标了，文章节奏自然而然也就有了。</p>
 <ol>
@@ -196,8 +203,8 @@
 </ol>
 <p>待办列表:</p>
 <ul class="contains-task-list">
-<li class="task-list-item"><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-239988"><label class="task-list-item-label" for="task-item-239988"> Incomplete item</label></li>
-<li class="task-list-item"><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-987744"><label class="task-list-item-label" for="task-item-987744"> Complete item</label></li>
+<li class="task-list-item"><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-7059938"><label class="task-list-item-label" for="task-item-7059938"> Incomplete item</label></li>
+<li class="task-list-item"><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-4522356"><label class="task-list-item-label" for="task-item-4522356"> Complete item</label></li>
 </ul>
 <h2 id="链接">链接</h2>
 <p>A <a href="http://example.com">link</a>.文字链接</p>
