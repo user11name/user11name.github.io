@@ -197,8 +197,8 @@ Item 3
 </ol>
 <p>待办列表:</p>
 <ul class="contains-task-list">
-<li class="task-list-item"><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-9992718"><label class="task-list-item-label" for="task-item-9992718"> Incomplete item</label></li>
-<li class="task-list-item"><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-6471801"><label class="task-list-item-label" for="task-item-6471801"> Complete item</label></li>
+<li class="task-list-item"><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-5461540"><label class="task-list-item-label" for="task-item-5461540"> Incomplete item</label></li>
+<li class="task-list-item"><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-9923129"><label class="task-list-item-label" for="task-item-9923129"> Complete item</label></li>
 </ul>
 <h2 id="链接">链接</h2>
 <p>A <a href="http://example.com">link</a>.文字链接</p>
@@ -295,6 +295,8 @@ n\in\mathbb N</annotation></semantics></math></span><span class="katex-html" ari
 
       
 
+      
+        <div id="vlaine-comment"></div>
       
 
       <footer class="py-12 text-center px-4 md:px-0" v-pre>
@@ -500,6 +502,23 @@ n\in\mathbb N</annotation></semantics></math></span><span class="katex-html" ari
     //初始化
     initImg();
   </script>
+  
+    <script type="application/javascript" src="https://unpkg.com/valine"></script>
+<script type="application/javascript">
+  new Valine({
+    el: '#vlaine-comment',
+    appId: 'AcDpnTPDMl4eti6EyQSGUWw5-gzGzoHsz',
+    appKey: '2WXHyfKoxeewS5sR1WpzOECW',
+    pageSize: 10,
+    notify: false,
+    avatar: 'mp',
+    verify: true,
+    placeholder: '来都来了，不妨评论一下',
+    visitor: true,
+    highlight: false,
+    recordIP: true,
+  })
+</script>
   
   
 </body>
