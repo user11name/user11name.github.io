@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://user11name.github.io</id>
     <title>無限進步</title>
-    <updated>2021-02-26T02:15:47.983Z</updated>
+    <updated>2021-03-02T13:20:09.072Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://user11name.github.io"/>
     <link rel="self" href="https://user11name.github.io/atom.xml"/>
@@ -25,7 +25,7 @@
 <h2 id="怎样算是一篇好博客">怎样算是一篇好博客</h2>
 <p>如今互联网快餐时代，想要读者静下心来读完一篇长文越来越难。</p>
 <p>一个是因为相同的内容可以通过视频、音频等方式更直观地表达出来，另一个是因为大多数读者或“观者”浮躁而没有耐心。</p>
-<p>在我看来，能让读者读完的文章，应该具有3个特点：<mark>有价值的内容、舒适的排版和引人入胜的阅读节奏。</mark></p>
+<p>在我看来，能让读者读完的文章，应该具有 3 个特点：<mark>有价值的内容、舒适的排版和引人入胜的阅读节奏。</mark></p>
 <h2 id="内容">内容</h2>
 <p>内容的重要意义自然不必多说。</p>
 <p>我目前写博客是为了督促自己学习、记录重要信息，说白了就是取悦自己。所以我现在文章的价值主要是对我自己而言的，我认为有价值的就记录下来，即便这些内容对别人来说可能是废话。</p>
@@ -53,7 +53,7 @@
 <p>简单讲，文章节奏紧凑需要文章内容的逻辑清晰、段落长短交错、重点语句高亮点缀。</p>
 </li>
 <li>
-<p>段落间距最好一行以上，每一段可以一句话一段，适当增加次要内容部分(比如细致的分析)段落长度，但是尽量不要超过5行。</p>
+<p>段落间距最好一行以上，每一段可以一句话一段，适当增加次要内容部分(比如细致的分析)段落长度，但是尽量不要超过 5 行。</p>
 </li>
 <li>
 <p>合理运用<mark>高亮</mark>、引用等“提神”的格式。</p>
@@ -203,8 +203,8 @@
 </ol>
 <p>待办列表:</p>
 <ul class="contains-task-list">
-<li class="task-list-item"><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-5461540"><label class="task-list-item-label" for="task-item-5461540"> Incomplete item</label></li>
-<li class="task-list-item"><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-9923129"><label class="task-list-item-label" for="task-item-9923129"> Complete item</label></li>
+<li class="task-list-item"><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-1196763"><label class="task-list-item-label" for="task-item-1196763"> Incomplete item</label></li>
+<li class="task-list-item"><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-3918775"><label class="task-list-item-label" for="task-item-3918775"> Complete item</label></li>
 </ul>
 <h2 id="链接">链接</h2>
 <p>A <a href="http://example.com">link</a>.文字链接</p>
